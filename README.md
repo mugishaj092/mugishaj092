@@ -1,9 +1,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <hr/>
-
 <div align=center>
-    <img width=325 height=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=mugishaj092&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="mugishaj092" />
-    <img width=325 height=250 src='https://github-readme-stats.vercel.app/api?username=mugishaj092&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10'>
+    <img width=450 src='https://github-readme-stats.vercel.app/api?username=mugishaj092&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10'>
+    <img width=340 src="https://github-readme-stats.vercel.app/api/top-langs?username=mugishaj092&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="mugishaj092" />
 </div>
 
 <h3 align="center">I'm MGISHA Joseph A passionate software developer from Kigali-Rwanda</h3>
