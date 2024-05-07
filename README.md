@@ -1,12 +1,15 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MUGISHA Joseph!;" />
-</h1>
+<h2 align="center">⚡ Stats ⚡</h2>
+<hr/>
 
-<h3 align="center">A passionate software developer from Kigali-Rwanda</h3>
+<div align=center>
+    <img width=325 height=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=mugishaj092&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="mugishaj092" />
+    <img width=325 height=250 src='https://github-readme-stats.vercel.app/api?username=mugishaj092&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10'>
+</div>
+
+<h3 align="center">I'm MGISHA Joseph A passionate software developer from Kigali-Rwanda</h3>
 
 <br/>
 
- 
 <div align="center"> 
   <a href="mailto:mugishajoseph092@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -20,34 +23,16 @@
 </div>
 
  <hr/>
+ <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+<hr/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,java,nextjs,mysql,postman,jest" /><br>
 </div>
 
 <br/>
 <hr/>
-
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    <img width=325 height=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=mugishaj092&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="mugishaj092" />
-    <img width=325 height=250 src='https://github-readme-stats.vercel.app/api?username=mugishaj092&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10'>
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-
-
-<br/>
