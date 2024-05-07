@@ -38,8 +38,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mugishaj092&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="mugishaj092" />
-    <img width=325 src='https://github-readme-stats.vercel.app/api?username=mugishaj092&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10'>
+    <img width=325 height=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=mugishaj092&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10"     alt="mugishaj092" />
+    <img width=325 height=250 src='https://github-readme-stats.vercel.app/api?username=mugishaj092&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10'>
 </div>
 
 <br/><br/>
