@@ -30,13 +30,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,java,nextjs,mysql,postman,jest" />
+    <img src="https://skillicons.dev/icons?i=nodejs,reactnative,javascript,typescript,express,mongodb,java,nextjs,mysql,postman,jest,grapgql" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://user-badge.committers.top/rwanda/mugishaj092.svg" alt="committers.top badge" />
-</div>
 
 <hr/>
