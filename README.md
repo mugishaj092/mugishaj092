@@ -33,6 +33,7 @@
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
     <br/>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,java,nextjs,mysql,postman,jest" /><br>
+    [![committers.top badge](https://user-badge.committers.top/rwanda/fabmukunzi.svg)](https://user-badge.committers.top/rwanda/mugishaj092)
 </div>
 
 <br/>
