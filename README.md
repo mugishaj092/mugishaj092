@@ -36,7 +36,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-badge.committers.top/rwanda/fabmukunzi.svg" alt="committers.top badge" />
+  <img src="https://user-badge.committers.top/rwanda/mugishaj092.svg" alt="committers.top badge" />
 </div>
 
 <hr/>
